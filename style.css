@@ -1,0 +1,15 @@
+body{
+
+        font-family: 'Poppins', sans-serif;
+}h1{
+        font: 250px;color: chocolate;
+}h2{ color: coral;
+}section{
+ display: flex;
+}.half-width{
+       width: 10%; 
+padding:50% 40%;
+        
+}.half-width img{width: 10%;
+        
+}
