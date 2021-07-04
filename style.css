@@ -6,6 +6,7 @@ body{
 }h2{ color: coral;
 }section{
  display: flex;
+ margin-bottom: 100%;
 }.half-width{
        width: 10%; 
 padding:50% 40%;
